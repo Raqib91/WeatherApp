@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/target/dev-bundle/config",
+  "jarResourcesFolder": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/./src/main/frontend/generated/jar-resources",
+  "themeName": "my-theme",
+  "clientServiceWorkerSource": "/Users/raqibur-tsl-052/Personal/projects/ProIT/WeatherApp/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
