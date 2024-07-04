@@ -1,4 +1,4 @@
-package org.vaadin.example;
+package com.proit.weather;
 
 import java.io.Serializable;
 

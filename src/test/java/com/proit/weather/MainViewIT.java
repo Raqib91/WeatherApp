@@ -1,4 +1,4 @@
-package org.vaadin.example;
+package com.proit.weather;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
